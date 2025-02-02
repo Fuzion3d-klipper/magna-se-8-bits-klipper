@@ -12,7 +12,7 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 
 - **Impresora:** Hellbot Magna SE (8 bits)
 - **Cable de conexión:** Impresora a PC
-- **SBC compatible con Armbian** (Raspberry Pi, MakerbasePI) o **PC compatible con Linux**
+- **SBC compatible con Armbian** (Raspberry Pi, Recomiendo MakerbasePI de [**Techforge**](https://techforge.com.ar/) o **PC compatible con Linux**
 - **Software requerido:** Klipper, Moonraker y Mainsail/Fluidd configurados
 
 ## ⚙ Instalación
