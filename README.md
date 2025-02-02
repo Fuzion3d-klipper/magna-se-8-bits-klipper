@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Fuzion3d-klipper/magna-se-8-bits-klipper/blob/main/logo.png" alt="logo" width="300">
+  <img src="https://github.com/Fuzion3d-klipper/magna-se-8-bits-klipper/blob/main/logo.png" alt="logo" width="1000">
 </p>
 
 
