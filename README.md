@@ -39,6 +39,7 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 - Este firmware ha sido probado con **excelentes resultados** en la **Hellbot Magna SE 8 bits**.
 - Se recomienda realizar una calibración básica (**PID, Z-offset, flow rate**) después de la instalación.
 - **Ajustes adicionales** pueden ser necesarios según modificaciones del hardware.
+- **Utilizar perfil Orca Slicer** que se provee el perfil especifico para la maquina en este repositorio, no usar otro perfil
 
 Este repositorio está diseñado para **facilitar la implementación de Klipper en la Hellbot Magna SE 8 Bits**, optimizando su rendimiento y asegurando una **experiencia de impresión superior**. 🚀
 
