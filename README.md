@@ -1,4 +1,4 @@
-![Logo de Armbian](logo.png)
+<p align="center">![Logo de Armbian](logo.png)</p>
 
 
 # # Klipper para Hellbot Magna SE 8 Bits Creado y Optimizado por Fuzion3d
