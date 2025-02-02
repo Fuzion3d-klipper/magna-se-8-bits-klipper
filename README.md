@@ -15,9 +15,9 @@ Requisitos
 
 #Impresora Hellbot Magna SE (8 bits)
 
-#SBC compatible con Armbian (Raspberri) o MakerbasePI
+#Cable de conexion de impresora a PC
 
-#PC compatible con Linux
+#SBC compatible con Armbian (Raspberri) , MakerbasePI o PC compatible con Linux
 
 #Klipper, Moonraker y Mainsail/Fluidd configurados
 
