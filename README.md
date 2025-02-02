@@ -1,3 +1,6 @@
+![Logo de Armbian](imagenes/armbianlogo.png)
+
+
 # # Klipper para Hellbot Magna SE 8 Bits Creado y Optimizado por Fuzion3d
 
 Este repositorio proporciona una implementación de **Klipper** para la **Hellbot Magna SE (8 bits)**, basada en una imagen de **Armbian** optimizada para un rendimiento estable y eficiente.
