@@ -21,7 +21,7 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 2. **Instalar Klipper, Moonraker y la interfaz web** (Mainsail/Fluidd). [Guía de instalación](https://github.com/dw-0/kiauh)
 3. **Copiar el archivo `printer.cfg`** en la ruta correspondiente de configuración de Fluidd.
 4. **Configurar Orca Slicer** con el perfil optimizado disponible en este repositorio.
-5. **Flashear el firmware** `firmware.hex` a la impresora con **Arduloader**, utilizando el perfil `ATMega1284p usando Optiboot`. *(En algunos casos, puede ser necesario renombrar el archivo para que funcione correctamente. La pantalla de la impresora debería quedarse en el logo clavado después de la carga.)*
+5. **Flashear el firmware** `firmware.hex` a la impresora con [**Arduloader**](https://github.com/Fuzion3d-klipper/magna-se-8-bits-klipper/blob/main/arduloader.rar), utilizando el perfil `ATMega1284p usando Optiboot`. *(En algunos casos, puede ser necesario renombrar el archivo para que funcione correctamente. La pantalla de la impresora debería quedarse en el logo clavado después de la carga.)*
 6. **Iniciar Klipper y realizar pruebas de calibración** para validar la configuración.
 
 ## 🔧 Notas
