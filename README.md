@@ -7,6 +7,9 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 - **Configuración de Klipper (`printer.cfg`) personalizada:** Parámetros ajustados específicamente para la **Hellbot Magna SE 8 bits**, garantizando máxima precisión y rendimiento.
 - **Perfil de Orca Slicer optimizado:** Configuración avanzada adaptada a la máquina, asegurando **calidad y eficiencia** en la impresión.
 - **Velocidades calibradas para drivers A4988:** Ajustes de **aceleración, jerk y velocidades** adaptados para garantizar un equilibrio entre velocidad y calidad de impresión.
+- **M600** para cambio de color
+- **Screw tilt Adjust** con las medidas especificas de los tornillos de la cama.
+- **Aceleraciones** adaptadas para mejorar velocidades con drivers 4988
 
 ## 📌 Requisitos
 
