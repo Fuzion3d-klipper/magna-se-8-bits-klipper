@@ -27,6 +27,8 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 5. **Flashear el firmware** `firmware.hex` a la impresora con [**Arduloader**](https://github.com/Fuzion3d-klipper/magna-se-8-bits-klipper/blob/main/arduloader.rar), utilizando el perfil `ATMega1284p usando Optiboot`. *(En algunos casos, puede ser necesario renombrar el archivo para que funcione correctamente. La pantalla de la impresora debería quedarse en el logo clavado después de la carga.)*
 6. **Iniciar Klipper y realizar pruebas de calibración** para validar la configuración.
 
+**📢 Disclaimer: El uso de toda la documentacio aqui detallada es bajo su propio riesgo!**
+
 ## 🔧 Notas
 
 - Este firmware ha sido probado con **excelentes resultados** en la **Hellbot Magna SE 8 bits**.
