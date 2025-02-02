@@ -12,10 +12,10 @@ Perfil de Orca Slicer optimizado: Configuración avanzada adaptada a la máquina
 Velocidades calibradas para drivers A4988: Ajustes de aceleración, jerk y velocidades adaptadas para garantizar un equilibrio entre velocidad y calidad de impresión.
 
 Requisitos
-Impresora Hellbot Magna SE (8 bits)
-SBC compatible con Armbian (Raspberri) o MakerbasePI
-PC compatible con Linux
-Klipper, Moonraker y Mainsail/Fluidd configurados
+#Impresora Hellbot Magna SE (8 bits)
+#SBC compatible con Armbian (Raspberri) o MakerbasePI
+#PC compatible con Linux
+#Klipper, Moonraker y Mainsail/Fluidd configurados
 
 Instalación
 1. Flashear Armbian en la SBC (Raspberri) o Intalar Distro Debian en PC
