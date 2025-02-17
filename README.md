@@ -43,6 +43,22 @@ Este repositorio proporciona una implementación de **Klipper** para la **Hellbo
 
 Este repositorio está diseñado para **facilitar la implementación de Klipper en la Hellbot Magna SE 8 Bits**, optimizando su rendimiento y asegurando una **experiencia de impresión superior**. 🚀
 
+
+## 🔗 Recursos y Créditos
+- 📄 [Documentación oficial de Klipper](https://www.klipper3d.org/)
+- 💬 Soporte en [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+## 📢 Conéctate conmigo 📢
+
+- 🔗 **TikTok:** [Fuzion3D](https://www.tiktok.com/@fuzion3d)
+- 📸 **Instagram:** [Fuzion3D Crea](https://www.instagram.com/fuzion3dcrea)
+- 🎥 **YouTube:** [Fuzion3D Crea](https://youtube.com/@fuzion3dcrea)
+- 💬 **WhatsApp:** [Klipperianos Whatsapp](https://chat.whatsapp.com/IHaUnmBsNPnJ1kDIenCrmT)
+
+<a href="https://www.buymeacoffee.com/fuzion3d"><img src="https://img.buymeacoffee.com/button-api/?text=Apoya al creador&emoji=&slug=fuzion3d&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+Si encuentras útil esta macro, ⭐ ¡dale una estrella a este repositorio en GitHub! 🚀
+
 <hr>
 
 <h2 align="center">🌐 Fuentes y más información </h2>
